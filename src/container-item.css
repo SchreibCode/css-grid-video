@@ -1,0 +1,38 @@
+/*
+    Basic Styles
+*/
+
+.container {
+    height: auto;
+    width: 80%;
+    margin: 0 auto;
+    border: var(--border-dashed);
+    padding: 0.5rem;
+}
+
+.item {
+    color: var(--color-secondary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    font-weight: 800;
+    border: var(--border-solid);
+    font-size: 2.25rem;
+}
+
+.item:nth-child(1n) {
+    background-color: var(--color-primary);
+}
+
+.item:nth-child(2n) {
+    background-color: var(--color-red);
+}
+
+.item:nth-child(3n) {
+    background-color: var(--color-blue);
+}
+
+.item:nth-child(4n) {
+    background-color: var(--color-yellow);
+}
