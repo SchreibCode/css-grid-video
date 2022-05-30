@@ -7,7 +7,6 @@
     width: 80%;
     margin: 0 auto;
     border: var(--border-dashed);
-    padding: 0.5rem;
 }
 
 .item {
@@ -17,7 +16,6 @@
     justify-content: center;
     padding: 1rem;
     font-weight: 800;
-    border: var(--border-solid);
     font-size: 2.25rem;
 }
 

@@ -1,8 +1,8 @@
-<img src="https://github.com/SchreibCode/<repository-name>/blob/main/img/<img-name>" width="450" alt="Youtube Thumbnail"/>
+<img src="https://github.com/SchreibCode/css-grid-video/blob/main/img/css-grid.jpg" width="450" alt="Youtube Thumbnail"/>
 
-# Thema
+# CSS Grid
 
--   In diesem Repository findest du den Code zum Video: "Videotitel".
+-   In diesem Repository findest du den Code zum Video: "CSS Grid in 16 Minuten - Mit Beispiel".
 -   Falls du das Video noch nicht gesehen hast kannst du es hier:
     [Link zum Video](https://www.youtube.com) anschauen.
 
